@@ -1,0 +1,7 @@
+0/TACKLE/normal/50/100
+1/SCRATCH/normal/50/100
+2/EMBER/fire/35/100
+3/WATER GUN/water/35/100
+4/GUST/flying/35/100
+5/THUNDERSHOCK/electric/35/100
+6/VINE WHIP/grass/35/100

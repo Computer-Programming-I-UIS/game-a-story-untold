@@ -1,0 +1,16 @@
+0/You can only catch a maximum out ofNEWLINE4 POKSLASHeMON in this demo.
+1/To enter a house, run up to the doorNEWLINEand press X!
+2/Wild POKSLASHeMON will not jump out ifNEWLINEyour first POKSLASHeMON in your party is fainted.
+2/A POKSLASHeMON is fainted when its healthNEWLINEreaches 0.
+2/talk to the lady in the house left of hereNEWLINEto get all of your POKSLASHeMON healed.
+3/Hello! Let me take care of your POKSLASHeMON.
+4/This is a pond.NEWLINEPlease do not feed the fish POKSLASHeMON.
+5/PLAYER's house.
+6/PROFESSOR's house.
+7/Another house.
+8/Welcome to this town.
+9/This is a wild route.
+9/Be aware of the tall grass.NEWLINEWild POKSLASHeMON might jump out off the grass.
+10/STRANGE MAN: I see you are a POKSLASHeMON NEWLINETRAINER.
+10/I'll give you some items.
+10/There you go, just talk to me if you NEWLINEneed more items.
