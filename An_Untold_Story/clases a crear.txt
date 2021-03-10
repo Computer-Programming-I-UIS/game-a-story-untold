@@ -1,0 +1,10 @@
+madre (cargar un personaje en pantalla)
+	clase personaje principal
+	clase personajes secundarios 
+	clase asesino
+	clase fantasma
+madre (funciones diferentes para los botones)
+	botones
+escenario (imagen fondo y archivo de informacion)
+audios
+

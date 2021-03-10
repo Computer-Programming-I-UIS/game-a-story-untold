@@ -1,0 +1,29 @@
+1-inicio (boton aleatorio para pasar a menu)
+2-menu (botones jugar controles opciones creditos (cargar partida))
+3-pantalla de creditos 
+4-pantalla de controles
+5-opciones
+6-intercambio de mapas 
+6.1-jugador principal
+6.1.1-movimiento jugador
+6.1.2-colision jugador-mapa
+6.1.3-jugador intercambio de mapas
+6.2-personajes secundarios
+6.2.1-rotaciones
+6.2.2-dialogos 
+6.3-fantasma
+6.3.1-dialogos
+6.3.2-movimiento
+6.3.3-rotaciones
+6.4-asesino
+6.4.1-movimiento
+6.4.2-matar
+7-audios
+
+
+
+
+
+
+
+
